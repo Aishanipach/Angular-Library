@@ -25,8 +25,3 @@ all relevant code together
 ### Services
 
 - [**noise**](https://github.com/michaelbromley/angularUtils/tree/master/src/services/noise) : A simple 1D interpolated noise generator.
-
-
-## License
-
-MIT
