@@ -1,6 +1,6 @@
 # Angular Library
 
-Here are useful re-usable components that I made on the side
+Here are useful re-usable Angular components that I made on the side.
 
 ### Refrences 
 [Ng-Boilerplate] (https://github.com/ngbp/ngbp) project of bundling
